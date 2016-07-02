@@ -1,11 +1,11 @@
 # Basic
-title: pei blog
-subtitle: 
-# welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-# description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="https://www.douban.com/people/pei830/">@pei</a>
+title: Vno Jekyll
+subtitle: A blog-orientation theme for Jekyll
+welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+description: Vno Jekyll is a port of my Ghost theme vno.
+creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "https://peiyucn.github.io/"
+url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
@@ -40,11 +40,13 @@ comment:
     
 # Social
 social:
-    douban: pei
-    github: peiyucn
-    mail: peiyu@live.cn
+    weibo: onevcat
+    github: onevcat
+    twitter: onevcat
+    gplus: 107108267983477358170
+    mail: onev@onevcat.com
 
 # Google Analytics
-# ga:
+ga:
     # id: your_ga_id
     # host: your_host
