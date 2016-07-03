@@ -1,4 +1,4 @@
-# My blog
+# peiyucn.github.io
 基于 [Jekyll](http://jekyllrb.com) 与 [Vno Jekyll](https://github.com/onevcat/vno-jekyll) theme 构建的 blog 站点。
 
 ## Licence
