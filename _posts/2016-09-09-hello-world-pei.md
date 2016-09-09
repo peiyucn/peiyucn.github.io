@@ -28,7 +28,7 @@ date: 2016-09-09 21:56:00.000000000 +08:00
 > ###### h6
 
 ## code example
-``` code
+```bash
 $ git clone https://github.com/peiyucn/peiyucn.github.io.git
 ```
 
