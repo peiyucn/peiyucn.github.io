@@ -37,15 +37,6 @@ $ git clone https://github.com/peiyucn/peiyucn.github.io.git
 
 ## table example
 
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-|-----------------+------------+-----------------+----------------|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
+| Site Name | URL                                                      |
+|:--------- |:---------------------------------------------------------|
+| pei       | [https://peiyucn.github.io/](https://peiyucn.github.io/) |
