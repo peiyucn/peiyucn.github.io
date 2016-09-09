@@ -4,7 +4,10 @@ title: Hello World - pei
 date: 2016-09-09 21:56:00.000000000 +08:00
 ---
 
-**此 blog 是基于 Jekyll 的 github pages 服务，blog 内容支持 markdown 语法编写。**
+## 时隔多年新开 blog，继续在这里记录自己的生活。
+***
+
+**此 blog 由基于 Jekyll 的 github pages 服务构建，blog 内容支持 markdown 语法编写。**
 
 **详细 markdown 语法请参考 [markdown语法](http://wowubuntu.com/markdown/)。**
 
