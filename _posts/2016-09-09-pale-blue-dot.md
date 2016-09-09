@@ -16,7 +16,6 @@ date: 2016-09-09 22:31:00.000000000 +08:00
 随后卡尔萨根写下了这些话……
 
 
-```
 Look again at that dot.
 
 再看一下这个点吧。
@@ -88,4 +87,3 @@ To me, it underscores our responsibility to deal more kindly with one another, a
 
 
 -- Carl Sagan, 1994
-```
