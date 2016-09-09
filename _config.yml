@@ -1,12 +1,10 @@
 # Basic
-title: pei
+name: pei
 subtitle: 
 welcome_message: 谁能告诉我 宇宙是什么
 description: 一个胸无大志的程序员
 creator: <a href="https://peiyucn.github.io/">@pei</a>
-
 url: "https://peiyucn.github.io/"
-
 permalink: /:year/:month/:title/
 
 # Format
