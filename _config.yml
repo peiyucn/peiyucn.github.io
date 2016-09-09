@@ -1,7 +1,7 @@
 # Basic
 title: pei
 subtitle: 
-welcome_message: 欢迎来到我的自留地
+welcome_message: 谁能告诉我，宇宙是什么？
 description: 一个胸无大志的程序员
 creator: <a href="https://peiyucn.github.io/">@pei</a>
 
@@ -16,7 +16,7 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: slate
+cover_color: 
 
 # The blog button should not be removed.
 blog_button:
