@@ -16,10 +16,15 @@ date: 2016-09-09 21:56:00.000000000 +08:00
 ## header example
 
 > # h1
+
 > ## h2
+
 > ### h3
+
 > #### h4
+
 > ##### h5
+
 > ###### h6
 
 ## code example
@@ -31,8 +36,6 @@ $ git clone https://github.com/peiyucn/peiyucn.github.io.git
 >[My blog](https://peiyucn.github.io/) is using `Vno Jekyll` as well, you could see how it works in real. There are some other sites using the same theme. You can find them below:
 
 ## table example
-|-----------+----------------------------|
 | Site Name | URL                        |
 |:--------- |:---------------------------|
 | pei       | https://peiyucn.github.io/ |
-|-----------+----------------------------|
