@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google HTML/CSS Style Guide
+title: Google Style Guide
 date: 2016-09-29 11:02:00.000000000 +08:00
 ---
 
