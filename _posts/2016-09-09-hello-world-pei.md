@@ -2,6 +2,7 @@
 layout: post
 title: Hello World - pei
 date: 2016-09-09 21:56:00.000000000 +08:00
+tags: tech
 ---
 
 ## 时隔多年新开 blog，继续在这里记录自己的生活。
