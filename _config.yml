@@ -32,7 +32,7 @@ paginate_path: "page/:num/"
 # Comment
 comment:
     #disqus: vno-jekyll
-    duoshuo: peiyucn
+    duoshuo: peiyucn.duoshuo.com
 # Social
 social:
     weibo: peiyucn
