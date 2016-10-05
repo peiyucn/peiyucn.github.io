@@ -1,8 +1,8 @@
 # Basic
 title: pei
-subtitle: 
+subtitle: 一个胸无大志的程序员
 welcome_message: 谁能告诉我 宇宙是什么
-description: 一个胸无大志的程序员
+description: 
 creator: <a href="https://peiyucn.github.io/">@pei</a>
 url: "https://peiyu.github.io/"
 permalink: /:year/:month/:title/
