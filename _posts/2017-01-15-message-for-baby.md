@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 起名寄语
+title: 寄语
 date: 2017-01-16 02:00:00.000000000 +08:00
 tags: life
 ---
