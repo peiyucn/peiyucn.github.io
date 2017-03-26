@@ -16,11 +16,6 @@
         {% if site.welcome_message %}
         <p class="panel-cover__description">{{ site.welcome_message }}</p>
         {% endif %}
-        
-        <span>tags:</span>
-        {% for tag in site.tags %}
-        <a href="/show_by_tag.html?tag={{ tag[0] }}"> {{ tag[0] }}</a>
-        {% endfor %}
 
         <div class="navigation-wrapper">
           <div>
@@ -35,6 +30,12 @@
           </div>
           
           <div>{% include social.html %}</div>
+
+          <!--<span>tags:</span>
+          {% for tag in site.tags %}
+            <a href="/show_by_tag.html?tag={{ tag[0] }}"> {{ tag[0] }}</a>
+          {% endfor %}-->
+
         </div>
       </div>
     </div>
