@@ -5,6 +5,9 @@ date: 2017-10-05 15:38:00.000000000 +08:00
 tags: tech
 ---
 
+
+> [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/) (*es6*)
+> 
 > [https://nodejs.org/](https://nodejs.org/) (*官网*)
 >
 > [http://nodejs.cn/](http://nodejs.cn/) (*nodejs中文网 中文文档基本同步*)
