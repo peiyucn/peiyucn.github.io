@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nodejs learn
+title: nodejs learning
 date: 2017-10-05 15:38:00.000000000 +08:00
 tags: tech
 ---
