@@ -27,3 +27,7 @@ tags: tech
 > [https://seajs.github.io/seajs/docs/](https://seajs.github.io/seajs/docs/) (*SeaJS*)
 >
 > [https://github.com/seajs/seajs/issues/277](https://github.com/seajs/seajs/issues/277) (*SeaJS & RequireJS异同*)
+>
+>[http://underscorejs.org/](http://underscorejs.org/) (*nodejs util 增强库 underscorejs 但很久未更新了*)
+>
+>[https://lodash.com/](https://lodash.com/) (*lodash：与underscore 干同样的事情*)
