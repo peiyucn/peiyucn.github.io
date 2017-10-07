@@ -12,6 +12,10 @@ tags: tech
 >
 > [http://nodejs.cn/](http://nodejs.cn/) (*nodejs中文网 中文文档基本同步*)
 >
+>[https://read.douban.com/ebook/12053349/](https://read.douban.com/ebook/12053349/) (*《深入浅出 nodejs》 原理层面内容较多*)
+>
+>[https://cnodejs.org/](https://cnodejs.org/) (*nodejs 中文社区 由《深入浅出 nodejs》作者创建*)
+>
 > [https://www.npmjs.com/](https://www.npmjs.com/) （*npm官网*）
 >
 > [http://www.runoob.com/nodejs/nodejs-tutorial.html](http://www.runoob.com/nodejs/nodejs-tutorial.html) (*菜鸟教程：nodejs*)
