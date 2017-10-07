@@ -32,4 +32,6 @@ tags: tech
 >
 >[https://lodash.com/](https://lodash.com/) (*lodash：与underscore 干同样的事情*)
 >
->[https://expressjs.com/zh-cn/](https://expressjs.com/zh-cn/) (*基于 nodejs 的 web 开发框架*)
+>[https://expressjs.com/zh-cn/](https://expressjs.com/zh-cn/) (*基于 nodejs 的 web 开发框架 express*)
+>
+>[http://www.expressjs.com.cn/](http://www.expressjs.com.cn/) (*express 中文站 官翻，访问速度快*)
