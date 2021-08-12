@@ -1,6 +1,6 @@
 # Basic
 title: pei
-subtitle: 宽人 律己
+subtitle: 
 description: We Are Know So Little.
 welcome_message: 
 creator: <a href="https://peiyucn.github.io/">@pei</a>
@@ -21,7 +21,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 豆瓣, description: 我的豆瓣, url: 'https://www.douban.com/people/pei830/'}
+    # - {title: 豆瓣, description: 我的豆瓣, url: 'https://www.douban.com/people/pei830/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -32,11 +32,11 @@ paginate_path: "page/:num/"
 # Comment
 comment:
     #disqus: vno-jekyll
-    duoshuo: peiyucn
+    # duoshuo: peiyucn
 # Social
 social:
-    weibo: peiyucn
-    github: peiyucn
+    # weibo: peiyucn
+    # github: peiyucn
     mail: peiyu@live.cn
 
 # Google Analytics
